@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Render logo" src="./assets/render.svg">
     <h1>Vue Deploy PoC</h1>
+    <h2><a href="https://render.com" target="_blank">render.com</a></h2>
   </div>
 </template>
 
