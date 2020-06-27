@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Surge logo" src="./assets/surge.svg">
     <h1>Vue Deploy PoC</h1>
   </div>
 </template>
