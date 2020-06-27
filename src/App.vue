@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Heroku logo" src="./assets/heroku.svg">
     <h1>Vue Deploy PoC</h1>
+    <h2><a href="https://heroku.com" target="_blank">heroku.com</a></h2>
   </div>
 </template>
 
