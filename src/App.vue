@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Firebase logo" src="./assets/firebase.png">
     <h1>Vue Deploy PoC</h1>
+    <h2><a href="https://firebase.google.com" target="_blank">firebase.google.com</a></h2>
   </div>
 </template>
 
