@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="AWS logo" src="./assets/aws.png">
     <h1>Vue Deploy PoC</h1>
+    <h2><a href="https://aws.amazon.com" target="_blank">aws.amazon.com (S3 + Cloud Front)</a></h2>
   </div>
 </template>
 
