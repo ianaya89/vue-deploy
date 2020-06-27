@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Vercel logo" src="./assets/vercel.png">
     <h1>Vue Deploy PoC</h1>
+    <h2><a href="https://vercel.app" target="_blank">vercel.app</a></h2>
   </div>
 </template>
 
