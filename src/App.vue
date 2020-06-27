@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Netlify logo" src="./assets/netlify.svg">
     <h1>Vue Deploy PoC</h1>
+    <h2>
+      <a href="https://netlify.com" target="_blank">netlify.com</a>
+    </h2>
   </div>
 </template>
 
