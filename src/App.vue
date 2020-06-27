@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Docker logo" src="./assets/docker.png">
     <h1>Vue Deploy PoC</h1>
+    <h2><a href="https://docker.com">docker.com</a></h2>
   </div>
 </template>
 
