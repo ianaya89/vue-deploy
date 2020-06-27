@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Netlify logo" src="./assets/netlify.svg">
+    <img alt="Netlify logo" src="./assets/netlify.png">
     <h1>Vue Deploy PoC</h1>
     <h2>
       <a href="https://netlify.com" target="_blank">netlify.com</a>
