@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/gh.svg">
+    <img alt="Vue logo" src="./assets/logo.png">
     <h1>Vue Deploy PoC</h1>
-    <h2>GitHub Pages</h2>
   </div>
 </template>
 
