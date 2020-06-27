@@ -1,7 +1,21 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <h1>Vue Deploy PoC</h1>
+    <h1>vue-deploy</h1>
+    <h2>To the moon 🚀🌓</h2>
+
+    <div>
+      <img src="./assets/surge.svg" alt="surge">
+      <img src="./assets/github.svg" alt="github">
+      <img src="./assets/render.svg" alt="render">
+      <img src="./assets/vercel.png" alt="vercel">
+      <img src="./assets/netlify.png" alt="netlify">
+      <img src="./assets/heroku.svg" alt="heroku">
+      <img src="./assets/aws.png" alt="aws">
+      <img src="./assets/digitalocean.svg" alt="digitalocean">
+      <img src="./assets/docker.png" alt="docker">
+      <img src="./assets/sloppy.svg" alt="sloppy">
+    </div>
   </div>
 </template>
 
@@ -22,6 +36,7 @@ export default {
 }
 
 img {
-  width: 200px;
+  margin: 2rem;
+  height: 100px;
 }
 </style>
