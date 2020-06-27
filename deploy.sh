@@ -5,7 +5,7 @@ set -e
 npm run build
 cd dist
 
-echo 'github.ianaya89.dev' > CNAME
+echo 'github.vuedeploy.com' > CNAME
 
 git init
 git add -A
